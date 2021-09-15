@@ -1,0 +1,11 @@
+.label-odd{
+    color: chocolate;
+    font-weight: bolder;
+    background-color: cyan;
+}
+
+.label-even{
+    color: blue;
+    font-weight: bolder;
+    background-color: darkkhaki;
+}
